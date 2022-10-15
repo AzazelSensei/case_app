@@ -1,6 +1,10 @@
-# case_app
+# Case App
 
 SpaceX Latest Launch ve Reddit Clone
+
+# Release
+
+https://github.com/AzazelSensei/case_app/blob/master/app-release.apk
 
 ## Getting Started
 
